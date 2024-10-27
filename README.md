@@ -1,3 +1,7 @@
+Gameplay:
+
+https://youtu.be/L7KhnSl22Dw
+
 Assets:
 
 https://assetstore.unity.com/packages/3d/characters/stylized-simple-hands-221297
